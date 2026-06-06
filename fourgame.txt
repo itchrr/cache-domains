@@ -1,0 +1,4 @@
+# 4game / Innova CDN candidates
+launcher.eu.4game.com
+cdn.4game.com
+*.cdn.4game.com
