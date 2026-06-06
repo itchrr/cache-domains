@@ -127,7 +127,7 @@
       "description": "CDN for Windows Updates",
       "domain_files": ["windowsupdates.txt"]
     },
-        {
+    {
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
