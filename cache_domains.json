@@ -127,10 +127,30 @@
       "description": "CDN for Windows Updates",
       "domain_files": ["windowsupdates.txt"]
     },
-    {
+        {
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
+    },
+    {
+      "name": "vkplay",
+      "description": "CDN for VK Play / Mail.ru GameCenter",
+      "domain_files": ["vkplay.txt"]
+    },
+    {
+      "name": "lesta",
+      "description": "CDN for Lesta Game Center",
+      "domain_files": ["lesta.txt"]
+    },
+    {
+      "name": "fourgame",
+      "description": "CDN for 4game / Innova launcher",
+      "domain_files": ["fourgame.txt"]
+    },
+    {
+      "name": "astrum",
+      "description": "CDN for Astrum launcher",
+      "domain_files": ["astrum.txt"]
     }
   ]
 }
