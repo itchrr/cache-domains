@@ -1,0 +1,6 @@
+# VK Play / Mail.ru GameCenter CDN candidates
+dl.vkplay.ru
+dl.mail.ru
+cdn.vkplay.ru
+*.cdn.vkplay.ru
+static.gc.vkplay.ru
