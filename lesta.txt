@@ -3,5 +3,3 @@ download.lesta.ru
 *.download.lesta.ru
 cdn.tanki.su
 *.cdn.tanki.su
-dl-wot-gc.wargaming.net
-wg.gcdn.co
