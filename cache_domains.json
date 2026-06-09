@@ -6,6 +6,11 @@
       "domain_files": ["arenanet.txt"]
     },
     {
+      "name": "astrum",
+      "description": "CDN for Astrum launcher",
+      "domain_files": ["astrum.txt"]
+    },
+    {
       "name": "blizzard",
       "description": "CDN for Blizzard/Battle.net",
       "domain_files": ["blizzard.txt"]
@@ -36,9 +41,19 @@
       "domain_files": ["epicgames.txt"]
     },
     {
+      "name": "fourgame",
+      "description": "CDN for 4game / Innova launcher",
+      "domain_files": ["fourgame.txt"]
+    },
+    {
       "name": "frontier",
       "description": "CDN for Frontier Games",
       "domain_files": ["frontier.txt"]
+    },
+    {
+      "name": "lesta",
+      "description": "CDN for Lesta Game Center",
+      "domain_files": ["lesta.txt"]
     },
     {
       "name": "neverwinter",
@@ -113,6 +128,11 @@
       "domain_files": ["uplay.txt"]
     },
     {
+      "name": "vkplay",
+      "description": "CDN for VK Play / Mail.ru GameCenter",
+      "domain_files": ["vkplay.txt"]
+    },
+    {
       "name": "warframe",
       "description": "CDN for Warframe",
       "domain_files": ["warframe.txt"]
@@ -131,26 +151,6 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
-    },
-    {
-      "name": "vkplay",
-      "description": "CDN for VK Play / Mail.ru GameCenter",
-      "domain_files": ["vkplay.txt"]
-    },
-    {
-      "name": "lesta",
-      "description": "CDN for Lesta Game Center",
-      "domain_files": ["lesta.txt"]
-    },
-    {
-      "name": "fourgame",
-      "description": "CDN for 4game / Innova launcher",
-      "domain_files": ["fourgame.txt"]
-    },
-    {
-      "name": "astrum",
-      "description": "CDN for Astrum launcher",
-      "domain_files": ["astrum.txt"]
     }
   ]
 }
