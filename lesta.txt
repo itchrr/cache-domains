@@ -1,4 +1,3 @@
-# Lesta Game Center CDN candidates
 download.lesta.ru
 *.download.lesta.ru
 cdn.tanki.su
