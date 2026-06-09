@@ -1,4 +1,3 @@
-# Astrum launcher CDN candidates
 download.astrum-entertainment.ru
 *.download.astrum-entertainment.ru
 cdn.astrum-entertainment.ru
