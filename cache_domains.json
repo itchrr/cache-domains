@@ -51,6 +51,11 @@
       "domain_files": ["frontier.txt"]
     },
     {
+      "name": "gaijin",
+      "description": "CDN for Gaijin.Net launcher and games",
+      "domain_files": ["gaijin.txt"]
+    },
+    {
       "name": "lesta",
       "description": "CDN for Lesta Game Center",
       "domain_files": ["lesta.txt"]
